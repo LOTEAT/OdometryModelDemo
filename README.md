@@ -17,7 +17,7 @@ SENSOR1 1.8392269046 0.248025655056
 SENSOR2 3.91387355108 1.39726707495
 ...
 ```
-For the line with `ODOMETRY`, it consists of the $\delta_{rot1}, \delta_{trans}, \delta_{rot2}$. For example, in *****ODOMETRY 0.100692392654 0.100072845247 0.000171392857486**, $\delta_{rot1}=0.100692392654, \delta_{trans}=0.100072845247, \delta_{rot2}=0.000171392857486$, repectively.
+For the line with `ODOMETRY`, it consists of the $\delta_{rot1}, \delta_{trans}, \delta_{rot2}$. For example, in **ODOMETRY 0.100692392654 0.100072845247 0.000171392857486**, $\delta_{rot1}=0.100692392654, \delta_{trans}=0.100072845247, \delta_{rot2}=0.000171392857486$, repectively.
 
 The followings are landmarks observed by the robot. For example, in **SENSOR1 1.89645381418 0.374031885671**, `SENSOR1` is the id of observed landmark, **1.89645381418, 0.374031885671** are the x-axis coordinate and y-axis coordinate, respectively.
 
