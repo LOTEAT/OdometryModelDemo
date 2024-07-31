@@ -43,7 +43,13 @@ y \\
 \end{array}\right)
 $$
 
-### 3. Result
+
+### 3. Quick Start
+```shell
+python main.py
+```
+
+### 4. Result
 The result is as follows
 <center>
     <img style="border-radius: 0.3125em;
