@@ -37,9 +37,9 @@ x \\
 y \\
 \theta
 \end{array}\right)+\left(\begin{array}{c}
--\frac{v}{\omega} \sin \theta+\frac{v}{\omega} \sin (\theta+\omega \Delta t) \\
-\frac{v}{\omega} \cos \theta-\frac{v}{\omega} \cos (\theta+\omega \Delta t) \\
-\omega \Delta t
+\delta_{trans}cos(\theta + \delta_{rot1}) \\
+\delta_{trans}sin(\theta + \delta_{rot1}) \\
+\delta_{rot1} + \delta_{rot2}
 \end{array}\right)
 $$
 
